@@ -5,7 +5,7 @@
 .npm
 .project
 .sessions.json
-.settings
+# .settings
 .tern-project
 .i18n-editor-metadata
 *.backup
